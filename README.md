@@ -13,12 +13,12 @@ The data is provided by the Hospital Authority of Hong Kong the ethical approval
 Part of the codes are referenced Dr. Wang HW's RIPPLENET (https://github.com/hwwang55/RippleNet). We thank them very much for sharing their codes.
 
 ## Files in the folder
-DATA: data_sample.csv
+DATA: data_sample.csv,
 kg_final.txt
 
-data_loader.py
-model.py
-train.py
+data_loader.py,
+model.py,
+train.py,
 main.py
 
 ## Environment:
