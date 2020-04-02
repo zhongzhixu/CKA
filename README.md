@@ -10,10 +10,16 @@ The general architecture of CNA is showed in the following.
 
 The data is provided by the Hospital Authority of Hong Kong the ethical approval UW11-495. The data can not be made available to others according to the Hospital Authority and the ethical approval. Instead, we provide some simulated cases in DATA folder.  
 
-## Files in the folder
-DATA: simulated cases
+Part of the codes are referenced Dr. Wang HW's RIPPLENET (https://github.com/hwwang55/RippleNet). We thank them very much for sharing their codes.
 
-DX2vec.py
+## Files in the folder
+DATA: data_sample.csv
+kg_final.txt
+
+data_loader.py
+model.py
+train.py
+main.py
 
 ## Environment:
 Python 3.6
@@ -24,8 +30,6 @@ TensorFlow 1.13.1
 
 ## Running the code
 
-Clone all files to the local computer, fill appropriate path.
+Clone all files to the local computer, and fill in appropriate path.
+Then the programme works.
 
-Note to split the study examples in DATA file into case group and control group.
-
-Or, one can use all study samples as case group and control group simultaneously to just have a feeling of the code.
