@@ -6,7 +6,7 @@ CKA is a novel prognostic prediction model which exhibits superior performance o
 
 The general architecture of CNA is showed in the following.
 
-![figure](https://github.com/zhongzhixu/CNADRP/blob/master/icon/figure1.jpg)
+![figure](https://github.com/zhongzhixu/CNADRP/blob/master/icon/arct.jpg)
 
 The data is provided by the Hospital Authority of Hong Kong the ethical approval UW11-495. The data can not be made available to others according to the Hospital Authority and the ethical approval. Instead, we provide some simulated cases in DATA folder.  
 
